@@ -1,7 +1,7 @@
 class MemeHandler
   attr_accessor :message
 
-  USERNAME = 'SlackMeme'
+  USERNAME = 'Yo Dawg'
 
   def initialize(message)
     @message = message
